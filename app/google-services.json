@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810283559233",
+    "project_id": "fir-useraunthetication",
+    "storage_bucket": "fir-useraunthetication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810283559233:android:ef9167bb2b1649f89459c0",
+        "android_client_info": {
+          "package_name": "com.example.firebaseuseraunthetication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo6QU9Ky2JzJhtWObS-hXWQwoS2Tyutek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
